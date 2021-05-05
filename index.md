@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Nils E-Portfolio
 
-You can use the [editor on GitHub](https://github.com/nlz-crtl/eportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my e-portfolio which I use while studying cyber security at the University of Essex Online.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
